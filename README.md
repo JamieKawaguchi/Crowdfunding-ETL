@@ -13,7 +13,7 @@ This project was designed to help us practices building an ETL pipeline. In the 
 #### Repository Contents
 
 The respository includes: 
-- Two riginal .xlsx files the data was from
+- Two original .xlsx files the data was from
 - A jupyter notebook with the structure of our ETL pipeline
 - Four CSV files we created
 - Schema for Postgres used to create tables and check them
